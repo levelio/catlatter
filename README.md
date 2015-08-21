@@ -10,8 +10,8 @@ Cat Ladder
 
 ##使用
 
-先安装模块 `npm install`
-
+    git clone git@github.com:Simlesos/catlatter.git
+    npm install
     gulp task-list  //列出所有task
 
 配置文件是 `gulp.config.js` 可以按需修改其中的相关路径
