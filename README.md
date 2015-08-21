@@ -11,7 +11,7 @@ Cat Ladder
 
 ##使用
 
-    git clone git@github.com:Simlesos/catlatter.git
+    git clone https://github.com/Simlesos/catlatter.git
     npm install
     gulp task-list  //列出所有task
 
