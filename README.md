@@ -12,7 +12,7 @@ Cat Ladder
 
 先安装模块 `npm install`
 
-  gulp task-list  //列出所有task
+    gulp task-list  //列出所有task
 
 配置文件是 `gulp.config.js` 可以按需修改其中的相关路径
 
@@ -21,8 +21,9 @@ Cat Ladder
 
 ##TODO
 
-<input type="checked"> 加入CSS Sprity 合并 task
-<input type="checked"> 优化结构
+- [ ] 加入CSS Sprity 合并 task
+- [ ] 优化结构
+
 
 ##版本纪录
 
