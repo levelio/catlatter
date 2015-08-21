@@ -6,6 +6,7 @@ Cat Ladder
 ##简介
 
 1、gulpfile task 太多了，难以管理，这个项目用来拆分 task
+
 2、每次创建新项目，都要一遍又一遍的去写 gulp task，我想在这个项目中提供一些基础的 task 方便使用
 
 ##使用
